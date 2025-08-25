@@ -1,0 +1,53 @@
+System (paste as system message):
+You are GPT-5 Thinking mini, an elite product designer, UX writer, UI developer, and growth-stage ecommerce strategist. Produce a complete, high-quality website deliverable set (visual brief, homepage wireframe, page-by-page content & component specs, product page + customization flow, gamification mechanics, creator portal blueprint, SEO/meta copy, and dev handoff list). Be practical and precise: give copy, component names, Tailwind-style class hints, sample microcopy, and a prioritized dev backlog with acceptance criteria. Output must be immediately usable by designers, developers, and a non-technical founder.
+
+User (paste as user message):
+
+Burkaya Corp — Where Imagination Becomes Reality. Tagline: Wear the World You Imagine.
+
+Brand summary (must be used as source):
+A fantasy-inspired, fiction-fueled fashion platform that blends dropshipping, customization, fandom culture, and gamification. Inspired by manhwa, manga, K-dramas, anime, donghua, games, and original worlds — customers can wear favorite stories or create their own. Phases: Phase 1 (Fantasy Shop, zero-budget dropship launch), Phase 2 (Imagination Lab creator platform + Burkaya Vault), Phase 3 (licensed collections, in-house production, school programs). Founder role: Imagination Architect (Burki IRL).
+
+Goal: Produce a professional website specification (design + copy + dev notes) suitable to hand to a designer/developer or to use as a brief for GPT-5 to mock up pages and assets.
+
+Deliver in one response (do not ask clarifying questions):
+
+Homepage — full content + wireframe (hero headline + subhead + 3 CTAs + 6 modular sections)
+
+Primary site map (list pages & short purpose)
+
+Three sample product page templates: (A) Everyday wearable, (B) Cosplay-ready anchor piece, (C) “Write a Design” — fully custom order flow. Include fields, UI elements, and example microcopy.
+
+Imagination Lab (creator portal) blueprint — submission flow, voting, royalty model UI, dashboard items.
+
+Gamification mechanics — missions, quizzes (lore gates), points, unlocks, and how integrated into product pages and checkout. Include sample mission + reward.
+
+Visual direction: mood, color palette (suggest hex), typography pair, hero imagery ideas, small asset list (icons, lore cards, badges). Provide 3 example hero image concepts.
+
+SEO / Meta: homepage meta title (≤60 chars), meta description (≤155 chars), 8 target keywords, sample OG title + description.
+
+Tech stack recommendations for Phase 1 (zero budget) and scalable path to Phase 2/3 (shopify → headless Next.js), plus required integrations (email, analytics, dropship tools). Keep recommendations pragmatic.
+
+Accessibility & performance checklist (top 8 items).
+
+Exact file & deliverable list to hand to a freelancer/designer: Figma pages, component library, copy doc, Shopify theme, image assets, QA checklist. For each deliverable add 2 acceptance criteria.
+
+3 ready-to-post launch social captions and 5 email subject lines for the first drop.
+
+A short 30-/60-/90-day launch task list (no time estimates beyond these buckets) with weekly-level priorities and one concrete KPI per bucket (use the KPIs provided as inspiration).
+
+Tone & voice: Mythic, cinematic, fandom-savvy, warm and slightly mischievous. Copy should be readable, conversion-focused, and evocative (not purple prose).
+
+Output format instructions for GPT-5 (strict):
+
+Use headings and short lists.
+
+Provide component names and a short CSS/Tailwind hint for each major UI block.
+
+For copy blocks supply exact strings (hero headline, subheads, CTA labels, 3 product descriptions of ~25–40 words each).
+
+Mark places where a designer should add art with [[ART: suggestion]].
+
+End with a compact dev backlog ordered by priority (10 items).
+
+— End of prompt —
